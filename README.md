@@ -1,1 +1,1 @@
-# CSE589-PA1
+Multi client Text chat Application: Built a C-based text chat application that supports functionalities such as login, exit, refresh, send, receive, and broadcast. Crafted both client and server components over TCP connections.
